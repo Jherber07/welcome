@@ -305,10 +305,7 @@ header .nav nav.open .menu {
   position: relative;
   flex: 1;
   padding: 12px 40px 40px;
-  background-image: url(https://i.pinimg.com/564x/10/d8/5e/10d85ee34d6ce5e31dafe991ec8ee86b.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+ 
 }
 .content p {
   color: #fff;
